@@ -1,0 +1,33 @@
+*{
+    padding:0 ;
+    margin:0 ;
+}
+.imagem-um{
+text-align: center;
+width: 100%;
+
+}
+.ufc-titulo-um{
+text-align: center;
+font-size: 25px;
+color: black;
+
+}
+.imagem-logo{
+width: 10%;
+
+}
+.ufc-titulo{
+text-align: center;
+
+}
+.rodape{
+    background-color: black;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+   
+}
